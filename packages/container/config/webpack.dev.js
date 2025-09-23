@@ -3,7 +3,7 @@ const commonConfig = require("./webpack.common");
 const ModuleFederationPlugin = require("webpack/lib/container/ModuleFederationPlugin");
 const packageJson = require("../package.json");
 
-// hi2
+// hi3
 
 const devConfig = {
   mode: "development",
